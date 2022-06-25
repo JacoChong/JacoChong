@@ -1,19 +1,3 @@
-- :globe_with_meridians: Location:
-	- Macau
-- :heart: Interest:
-	- Badminton
-	- Running
-	- Coding
-- :video_game: Games:
-	- Minecraft
-	- Clash Royale
-- :speech_balloon: Coding Languages:
-	- HTML
-	- CSS
-	- Python
-- :computer: Coding IDE:
-	- Visual Studio Code
-- :headphones: Current loop:
-	- Answer - Ikuta Lilas
-- :tv: Twitch Link:
-	- twitch.tv/JacoChong
+- :globe_with_meridians: Location: Macau
+- :speech_balloon: Language: Python
+- :computer: IDE: VS Code
